@@ -17,6 +17,7 @@ var infixo = {
     en:'x1_D',
     in:'x1_T',
 }
+//exportando as variaveis
 module.exports={
     nomeclatura_inicial,
     infixo
