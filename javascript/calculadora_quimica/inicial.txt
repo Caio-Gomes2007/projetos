@@ -1,0 +1,7 @@
+Objetivo == Criar decodificador de carbono para quimica;
+
+//passos//
+
+primeiro = criar arquivo com as variaveis de prefixos e sufixos e infixos basicos,arquivo(formulas.js);
+
+segundo = 
